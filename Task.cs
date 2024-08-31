@@ -9,6 +9,7 @@ using System;
 
 namespace TodoListApp
 {
+    /*esta clase representa una tarea con descripcion, fecha limite y estado de la tarea()*/
     public class Task
     {
         public string Descripcion { get; set; }
